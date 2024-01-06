@@ -4,7 +4,7 @@
 The CCFD project conducts an in-depth analysis of credit card transactions to identify fraudulent activities. The project encompasses outlier detection, data visualization, and transaction pattern analysis, applying statistical and visual methods to unearth potential fraud.
 
 ## Dependencies
-- Python (3.x)
+- Python
 - Pandas
 - NumPy
 - Plotly
